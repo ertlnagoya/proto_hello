@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package proto.hello;
 
-option go_package="github.com/synerex/proto_hello";
+option go_package="github.com/ertlnagoya/proto_hello";
 
 message HelloMessage {
     string hello_message = 1;
