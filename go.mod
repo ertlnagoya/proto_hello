@@ -1,4 +1,4 @@
-module github.com/synerex/proto_fleet
+module github.com/ertlnagoya/proto_hello
 
 go 1.12
 
